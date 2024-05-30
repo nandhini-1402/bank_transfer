@@ -3,8 +3,6 @@
 
 ---
 
-# Bank System Project
-
 This project is a simple banking system implemented using React.js for the frontend, Node.js for the backend, and MySQL for the database. It allows users to sign up with individual PINs and different starting balances, and transfer money between accounts securely.
 
 ## Features
